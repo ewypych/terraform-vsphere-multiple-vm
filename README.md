@@ -11,7 +11,7 @@ This build can be helpful with:
 - be a part of some tests, based on VMs
 - many other cases.
 
-You can find more details on my page, where I described [how to deploy vSphere VM with Terraform](https://emilwypych.com/2017/02/26/deploying-vsphere-vm-with-terraform/).
+You can find more details on my page, where I described [how to deploy vSphere VM with Terraform](https://emilwypych.com/2017/02/26/deploying-vsphere-vm-with-terraform/). More information about deploying multiple VMs you can find also on my blog, [just click here](https://emilwypych.com/2017/10/15/deploying-multiple-vsphere-vms-terraform/).
 
 WARNING! Works only with Linux VMs!
 
